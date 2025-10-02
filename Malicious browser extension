@@ -1,0 +1,12 @@
+Reviewed  the chrome browser extension
+Checked permission for each extension.But couldnt find any suspicious extensions.
+Malicious extensions are very harmful for the users because it has the potential to steal data, inject ads,Account takeover attacks and even hijack your browser
+To protect from malicious extensions,We can adopt some practises like
+*Continuous risk assessment,
+*Automated extensions policies and enforcement,
+*User education
+*Modern cybersecurity tools
+If you find any malicious  browser extension,
+*Immediately remove the extension via your browser's settings, 
+ *change passwords for sensitive accounts accessed while the extension was installed, and run a malware scan on your computer to check for further infections. 
+You should also reset your browser settings to default and monitor your accounts for any unusual activity. 
